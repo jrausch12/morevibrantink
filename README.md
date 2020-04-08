@@ -1,5 +1,8 @@
 <h1>More Vibrant Ink</h1>
 
+_An example of this theme._
+
+![Theme example](/morevibrantinkexample.png)
 
 I have always loved the base Vibrant Ink included with RStudio 1.2 but I thought it could use a bit of _flair_. This theme is also friendly with the line highlight option found under `Tools>Global Options>Code>Display` called `Highlight selected line`, which I find particularly helpful in a dark theme when debugging code.
 
