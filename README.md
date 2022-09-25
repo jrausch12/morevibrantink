@@ -7,7 +7,9 @@ _An example of this theme._
 I have always loved the base Vibrant Ink included with RStudio 1.2 but I thought it could use a bit of _flair_. This theme is also friendly with the line highlight option found under `Tools > Global Options > Code > Display` called `Highlight selected line`, which I find particularly helpful in a dark theme when debugging code.
 
 <h1>Installation</h1>
-Before you begin, create the following directory if it does not already exist: `C:\ProgramData\RStudio`
+
+Before you begin, create the following directory if it does not already exist: `C:\ProgramData\RStudio` <br />
+
 Make sure you're running RStudio 1.2 or later
 Run this:
 
