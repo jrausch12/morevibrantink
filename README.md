@@ -14,11 +14,11 @@ Make sure you're running RStudio 1.2 or later
 Run this:
 
 ```
-rstudioapi::addTheme("https://raw.githubusercontent.com/jrausch12/morevibrantink/master/more_vibrant_ink.rstheme", TRUE, TRUE, TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/jrausch12/morevibrantink/master/more_vibrant_ink.rstheme", TRUE, TRUE)
 ```
 
 The above line will pull my theme down into your theme folder and override globally whatever theme you're currently using. Can be changed at any time by going to `Tools > Global Options > Appearance`
 
-<h2>The above method does not work</h2>
+<h2>If the above method does not work</h2>
 
 Do the following: Download the `rstheme` file to your local directory. Then, go to RStudio's ribbon and navigate to `Tools > Global Options > > Appearance`. From there, click on `Add` and navigate to the file you downloaded. Voila!
